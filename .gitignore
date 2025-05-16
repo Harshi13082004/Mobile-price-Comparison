@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.env
+*.ipynb_checkpoints
+credentials.txt
+*.xlsx
+*.csv
