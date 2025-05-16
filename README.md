@@ -15,7 +15,7 @@ A data science project comparing mobile phone listings (under ₹50,000) across 
 data/       -> Raw and processed CSV files  
 notebooks/  -> Python scripts for scraping and processing  
 neo4j/      -> Code and Cypher queries for Neo4j graph database  
-screenshots/-> Any screenshots if needed
+screenshots/
 ```
 
 ## 🚀 How to Run
@@ -35,10 +35,4 @@ screenshots/-> Any screenshots if needed
 - Brand popularity trends
 - Many new models had no reviews
 
-## 🔒 Note
 
-Do NOT share your Neo4j credentials publicly. Use environment variables instead.
-
-## 📄 License
-
-MIT (add if needed)
